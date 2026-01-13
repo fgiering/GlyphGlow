@@ -2,6 +2,8 @@
 
 A minimal Android app that controls the Glyph interface on Nothing devices using the Glyph Developer Kit. Designed and tested for Nothing Phone (2a) Plus, with graceful handling for other supported models.
 
+<img width="1084" height="2086" alt="Screenshot_20260113-231009" src="https://github.com/user-attachments/assets/40d3477b-6825-494a-b7d6-c4ceec60ba9c" />
+
 ## Features
 
 - Three on/off switches for zones A, B, and C
